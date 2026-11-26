@@ -31,6 +31,10 @@ python spring_chain.py
 
 正文使用 LaTeX 数学式，在 GitHub 页面直接渲染。脚本只依赖 NumPy，结论以断言形式写在脚本里，任一结论不成立会直接抛 `AssertionError`。
 
+## 作者
+
+**林卫叙**
+
 ## 相关工作
 
 同一位作者关于鱼竿变形曲线识别的开源工具：[rod-curve-vision](https://github.com/99999vvain/rod-curve-vision)。
@@ -40,7 +44,7 @@ python spring_chain.py
 ```bibtex
 @misc{cm_notes_2026,
   title  = {计算力学反问题札记},
-  author = {林卫叙 and 王飞扬},
+  author = {林卫叙},
   year   = {2026},
   note   = {两篇可复现的计算力学反问题札记},
   url    = {https://github.com/99999vvain/computational-mechanics-notes}

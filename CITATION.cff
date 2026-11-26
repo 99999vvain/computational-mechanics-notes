@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "计算力学反问题札记"
+message: "如果这些札记或其中的构造对你有帮助，请按以下格式引用。"
+type: software
+authors:
+  - family-names: 林
+    given-names: 卫叙
+repository-code: "https://github.com/99999vvain/computational-mechanics-notes"
+license: MIT
+year: 2026
+keywords:
+  - 反问题
+  - 刚度识别
+  - 等谱系统
+  - 计算力学
