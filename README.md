@@ -35,6 +35,8 @@ python spring_chain.py
 
 **林卫叙**
 
+两篇札记由作者在 AI 工具辅助下完成，全部技术结论经作者核验。具体分工见各篇末尾的「复现与贡献说明」。
+
 ## 相关工作
 
 同一位作者关于鱼竿变形曲线识别的开源工具：[rod-curve-vision](https://github.com/99999vvain/rod-curve-vision)。
